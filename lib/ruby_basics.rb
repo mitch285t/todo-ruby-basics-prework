@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(a)
-  
+  a = "I'm right and you are wrong!"
 end
 
 def greeting
